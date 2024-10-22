@@ -1,5 +1,9 @@
 # AI-Powered Question Answering System
 
+<div align="center">
+  <img src="rag-proof.gif">
+</div>
+
 ## Description
 
 This project is an innovative question-answering system that leverages the power of Large Language Models (LLMs) and vector databases to provide accurate and context-aware responses. It uses cutting-edge technologies to enhance information retrieval and natural language processing capabilities.
